@@ -14,11 +14,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#f5f5f5', // Color de fondo suave
+    backgroundColor: '#f0f0f0',
   },
   text: {
-    fontSize: 24, // Tamaño del texto
-    fontWeight: 'bold', // Negrita
-    color: '#333', // Color de texto oscuro
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: '#333',
   },
 });
